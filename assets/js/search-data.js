@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Amrit Bahl", "_blank");
+          window.open("https://www.linkedin.com/in/amrit-bahl-84941b21b", "_blank");
         },
       },{
       id: 'light-theme',
