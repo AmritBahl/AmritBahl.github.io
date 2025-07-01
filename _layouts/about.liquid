@@ -11,7 +11,17 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+     {%- if page.subtitle -%}
+      {%- if page.subtitle.size and page.subtitle.first -%}
+        <ul class="subtitle-list desc">
+          {%- for item in page.subtitle -%}
+            <li>{{ item }}</li>
+          {%- endfor -%}
+        </ul>
+      {%- else -%}
+        <p class="desc">{{ page.subtitle }}</p>
+      {%- endif -%}
+    {%- endif -%}
   </header>
 
   <article>

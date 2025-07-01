@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
+- MS in xxx @XXX University
+- B.E. Civil Engineering @BITS-Pilani, Pilani Campus
 
 profile:
   align: right
