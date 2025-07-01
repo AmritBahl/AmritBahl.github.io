@@ -29,8 +29,15 @@ social: true # includes social icons at the bottom of the page
  # limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a first year MS student at XXX University studying xxx in the department of civil and environmental engineering. Previously, I completed my Bachelor's degree in civil engineering from BITS-Pilani, Pilani campus in 2025. During my undergrad, I had the priviledge of working extensively with some of the leading structural engineering professors in India from BITS-Pilani and IIT Bombay.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I wrote my undergraduate thesis on numerically simulating shrinkage induced cracks in base-restrained concrete walls and tanks under the supervision of Prof. M. N. Shariff at IIT Bombay. At BITS-Pilani, I have worked on the dynamic instability of a three-phase CNT fiber-composite beam using the Generalized Differential Quadrature (GDQ) technique under the guidance of Prof. Rajesh Kumar. Currently, I am working the design optimization of a Composite Aire Energy Storage (CAES) pressure vessel under the supervision of Prof. Rajesh Kumar and Prof. Subhasis Pradhan.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in the field of computational mechanics, i.e., I find it most satisfying to understand the mechanics background of a problem and then solve it efficiently using computational tools. I aspire to study the instability and fracturing of materials to design safer, serviceable, and 
+resilient structures with applications ranging from heavy structures to medical implants. 
+
+# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
